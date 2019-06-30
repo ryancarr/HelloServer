@@ -9,6 +9,7 @@
 #include <unistd.h>
 #include <netdb.h>
 #include <arpa/inet.h>
+#include <cstring>
 #endif // WIN32
 
 #pragma comment(lib, "Ws2_32.lib")
